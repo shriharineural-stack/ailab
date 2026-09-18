@@ -1,2 +1,2 @@
-# AI-LAB
+# ailab
 FOR AI LAB 
